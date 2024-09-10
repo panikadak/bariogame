@@ -1,0 +1,193 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Background-Pad.tsx": {
+            "scaleInDock": 1
+        },
+        "BackgroundSmall-Pad.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "GhostHunter-Pad.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        },
+        "KnightPlatformer.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "PixelFarmer-Pad.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "SpookyHouse.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "home.tmx": {
+            "scale": 3.8823,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 155.70666872730084,
+                "y": 64.00844860005665
+            }
+        },
+        "home1.tmx": {
+            "scale": 5.01,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 120.45908183632734,
+                "y": 81.53692614770459
+            }
+        },
+        "home2.tmx": {
+            "scale": 10.576171875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 64.0590951061865,
+                "y": 38.34090489381348
+            }
+        },
+        "map0.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 873,
+                "y": 98.33333333333331
+            }
+        },
+        "map1.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 525.909090909091,
+                "y": 77.54545454545455
+            }
+        },
+        "map10.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.16620498614964
+            }
+        },
+        "map11.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.16620498614964
+            }
+        },
+        "map12.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 620.2727272727273,
+                "y": 61.54545454545455
+            }
+        },
+        "map13.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.638965835641784
+            }
+        },
+        "map14.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.16620498614964
+            }
+        },
+        "map2.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.16620498614964
+            }
+        },
+        "map3.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.16620498614964
+            }
+        },
+        "map4.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.16620498614964
+            }
+        },
+        "map5.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.16620498614964
+            }
+        },
+        "map6.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.16620498614964
+            }
+        },
+        "map7.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.16620498614964
+            }
+        },
+        "map8.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.16620498614964
+            }
+        },
+        "map9.tmx": {
+            "scale": 2.115234375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2954755309326,
+                "y": 36.638965835641784
+            }
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "GhostHunter.tiled-project",
+    "recentFiles": [
+        "map0.tmx",
+        "KnightPlatformer.tsx",
+        "home.tmx",
+        "home1.tmx",
+        "SpookyHouse.tsx",
+        "GhostHunter-Pad.tsx",
+        "map1.tmx",
+        "map12.tmx",
+        "map14.tmx",
+        "map13.tmx",
+        "map11.tmx",
+        "map10.tmx"
+    ]
+}

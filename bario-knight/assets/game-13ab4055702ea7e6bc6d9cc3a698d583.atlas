@@ -1,0 +1,608 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+CloseBtn
+  rotate: false
+  xy: 2, 310
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+CloseBtnDown
+  rotate: false
+  xy: 805, 785
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 1067, 904
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+Coin
+  rotate: false
+  xy: 805, 767
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+FireButton
+  rotate: false
+  xy: 260, 475
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+FireButtonDown
+  rotate: false
+  xy: 563, 602
+  size: 129, 101
+  orig: 129, 101
+  offset: 0, 0
+  index: -1
+GameTitle
+  rotate: false
+  xy: 2, 705
+  size: 801, 308
+  orig: 801, 308
+  offset: 0, 0
+  index: -1
+Heart
+  rotate: false
+  xy: 2027, 995
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+HeartEmpty
+  rotate: false
+  xy: 652, 582
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+HitCoin
+  rotate: false
+  xy: 1507, 885
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+HitCoin
+  rotate: false
+  xy: 1637, 885
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+HitCoin
+  rotate: false
+  xy: 1767, 885
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+HitCoin
+  rotate: false
+  xy: 1897, 885
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+HitCoin
+  rotate: false
+  xy: 522, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+HitCoin
+  rotate: false
+  xy: 694, 575
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 5
+HitCoin
+  rotate: false
+  xy: 1329, 748
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 6
+HitCoin
+  rotate: false
+  xy: 824, 655
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 7
+HitCoin
+  rotate: false
+  xy: 1052, 651
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 8
+HitCoin
+  rotate: false
+  xy: 1182, 638
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 9
+HitCoin
+  rotate: false
+  xy: 824, 525
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 10
+HitCoin
+  rotate: false
+  xy: 1312, 618
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 11
+Knight
+  rotate: false
+  xy: 2, 447
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeftArrow
+  rotate: false
+  xy: 2, 173
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+LeftArrowDown
+  rotate: false
+  xy: 652, 459
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: -1
+LevelButton
+  rotate: false
+  xy: 936, 785
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+LevelButtonDown
+  rotate: false
+  xy: 1067, 781
+  size: 129, 101
+  orig: 129, 101
+  offset: 0, 0
+  index: -1
+LevelSelector
+  rotate: false
+  xy: 391, 475
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+LevelSelectorEmpty
+  rotate: false
+  xy: 2, 36
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+OneUp
+  rotate: false
+  xy: 954, 509
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+Stamp
+  rotate: false
+  xy: 954, 509
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 9
+OneUp
+  rotate: false
+  xy: 1182, 508
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+OneUp
+  rotate: false
+  xy: 1312, 488
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+OneUp
+  rotate: false
+  xy: 1459, 748
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+OneUp
+  rotate: false
+  xy: 1442, 618
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+OneUp
+  rotate: false
+  xy: 1442, 488
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 5
+OneUp
+  rotate: false
+  xy: 1589, 755
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 6
+OneUp
+  rotate: false
+  xy: 1719, 755
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 7
+OneUp
+  rotate: false
+  xy: 1849, 755
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 8
+OneUp
+  rotate: false
+  xy: 329, 345
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 9
+OneUp
+  rotate: false
+  xy: 231, 171
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 10
+OneUp
+  rotate: false
+  xy: 459, 342
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 11
+OneUp
+  rotate: false
+  xy: 231, 41
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 12
+OneUp
+  rotate: false
+  xy: 589, 329
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 13
+OneUp
+  rotate: false
+  xy: 719, 329
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 14
+OneUp
+  rotate: false
+  xy: 1182, 378
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 15
+OneUp
+  rotate: false
+  xy: 1312, 358
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 16
+OneUp
+  rotate: false
+  xy: 1442, 358
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 17
+Particle
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+PlayBtn
+  rotate: false
+  xy: 805, 922
+  size: 301, 91
+  orig: 301, 91
+  offset: 0, 0
+  index: -1
+PlayBtnDown
+  rotate: false
+  xy: 260, 612
+  size: 301, 91
+  orig: 301, 91
+  offset: 0, 0
+  index: -1
+Plus10
+  rotate: false
+  xy: 1245, 884
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+Plus30
+  rotate: false
+  xy: 1572, 618
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PlusHP
+  rotate: false
+  xy: 1572, 488
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+RightArrow
+  rotate: false
+  xy: 1376, 878
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+RightArrowDown
+  rotate: false
+  xy: 1198, 768
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: false
+  xy: 1572, 358
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+Smoke
+  rotate: false
+  xy: 1702, 625
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+Smoke
+  rotate: false
+  xy: 1702, 495
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+Smoke
+  rotate: false
+  xy: 1832, 625
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+Smoke
+  rotate: false
+  xy: 1702, 365
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+Smoke
+  rotate: false
+  xy: 1832, 495
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 5
+Smoke
+  rotate: false
+  xy: 1832, 365
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 6
+Smoke
+  rotate: false
+  xy: 1833, 235
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 7
+Smoke
+  rotate: false
+  xy: 361, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 8
+Smoke
+  rotate: false
+  xy: 491, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 9
+Smoke
+  rotate: false
+  xy: 621, 199
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 10
+Smoke
+  rotate: false
+  xy: 751, 199
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 11
+Smoke
+  rotate: false
+  xy: 621, 69
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 12
+Smoke
+  rotate: false
+  xy: 751, 69
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 13
+Stamp
+  rotate: false
+  xy: 881, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+Stamp
+  rotate: false
+  xy: 1011, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+Stamp
+  rotate: false
+  xy: 1141, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+Stamp
+  rotate: false
+  xy: 1271, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+Stamp
+  rotate: false
+  xy: 1401, 228
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+Stamp
+  rotate: false
+  xy: 1531, 228
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 5
+Stamp
+  rotate: false
+  xy: 1401, 98
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 6
+Stamp
+  rotate: false
+  xy: 1531, 98
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 7
+Stamp
+  rotate: false
+  xy: 1661, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 8
+Sword
+  rotate: false
+  xy: 1312, 752
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+UpArrow
+  rotate: false
+  xy: 1108, 884
+  size: 135, 129
+  orig: 135, 129
+  offset: 0, 0
+  index: -1
+UpArrowDown
+  rotate: false
+  xy: 1702, 261
+  size: 129, 102
+  orig: 129, 102
+  offset: 0, 0
+  index: -1
+demon
+  rotate: false
+  xy: 954, 639
+  size: 96, 144
+  orig: 96, 144
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: false
+  xy: 133, 277
+  size: 96, 168
+  orig: 96, 168
+  offset: 0, 0
+  index: -1
+goblin
+  rotate: false
+  xy: 1084, 505
+  size: 96, 144
+  orig: 96, 144
+  offset: 0, 0
+  index: -1
+orc
+  rotate: false
+  xy: 231, 301
+  size: 96, 144
+  orig: 96, 144
+  offset: 0, 0
+  index: -1
+skeleton
+  rotate: false
+  xy: 133, 107
+  size: 96, 168
+  orig: 96, 168
+  offset: 0, 0
+  index: -1

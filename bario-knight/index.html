@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>Bario Knight</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta id="gameViewport" name="viewport" content="width=device-width initial-scale=1">
+  <link href="styles.css" rel="stylesheet" type="text/css">
+  <style>
+
+    #load-text {
+      font-size:20px;
+      color:white;
+      font-family:sans-serif;
+      opacity: 0.2;
+      animation: fadeinout 2s linear infinite; 
+      top:50%;
+      left:50%;
+      transform:translateX(-50%);
+      position:absolute;
+      width:200px;
+    }
+
+    @keyframes fadeinout {
+      0%, 100% {
+        opacity: 0.2; 
+      }
+      50% {
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div align="center" id="embed-html"><div id='load-text'>Loading...</div></div>
+  <script type="text/javascript" src="html/html.nocache.js"></script>
+</body>
+
+<script>
+
+  window.addEventListener('load', function(e) {
+    document.getElementById('load-text').style.display = 'none';
+  });
+
+  function handleMouseDown(evt) {
+    evt.preventDefault();
+    evt.stopPropagation();
+    window.focus();
+  }
+
+  function handleMouseUp(evt) {
+    evt.preventDefault();
+    evt.stopPropagation();
+  }
+  document.addEventListener('contextmenu', event => event.preventDefault());
+  document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+  document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+</script>
+
+</html>
