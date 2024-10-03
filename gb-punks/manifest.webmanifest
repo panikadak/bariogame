@@ -1,0 +1,12 @@
+{
+  "name": "BASED GB-PUNK",
+  "short_name": "BASED GB-PUNK",
+  "id": "com.example.geometrymonster",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
